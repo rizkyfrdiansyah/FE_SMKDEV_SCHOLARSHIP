@@ -145,16 +145,16 @@ nav {
 }
 
 .sliderItem:nth-child(1) .sliderPrice {
-  color: #369e62;
+  color: #fee6a8;
 }
 .sliderItem:nth-child(2) .sliderPrice {
   color: white;
 }
 .sliderItem:nth-child(3) .sliderPrice {
-  color: teal;
+  color: #fee6a8;
 }
 .sliderItem:nth-child(4) .sliderPrice {
-  color: cornflowerblue;
+  color: white;
 }
 .sliderItem:nth-child(5) .sliderPrice {
   color: cornsilk;
